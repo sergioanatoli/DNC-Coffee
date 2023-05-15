@@ -1,0 +1,16 @@
+.boton{
+    display: none;
+}
+
+#divEmergente{
+    display: none;
+    text-align: center;
+    background-color: rgba(241, 239, 210, 1);
+    width: 500px;
+    height: 400px;
+    margin-top: 150px;
+    margin-left: 500px;
+    border-radius: 20px;
+    }
+
+
